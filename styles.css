@@ -116,9 +116,9 @@ background: radial-gradient(#FEDE00, #C8DF52, #0A7029);
 }
 .About{
     display:inline-block;
-    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
     margin:2 px;
-    font-size:25px;
+    font-size:30px;
     color:#191346;
 }
 .head2{
@@ -142,9 +142,9 @@ height: 610px;
     box-shadow: 5px 5px 3px 3px #4C223D;
 }
 #Skills{
-height: 320px;
+    height: 320px;
     width: 520px;
-background: linear-gradient( #C8DF52, #0A7029);
+    background: linear-gradient( #C8DF52, #0A7029);
     box-shadow: 5px 5px 3px 3px #4C223D;
     align-self: center;
     margin-top: 20px;
@@ -227,8 +227,9 @@ font-family: 'Roboto', sans-serif;
         color: #521837;
 }
 .head5{
-display: inline-block;
-    font-family: 'Lobster', cursive;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
     margin: 2 px;
     font-size: 25px;
     color: #191346;
